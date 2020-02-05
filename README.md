@@ -1,5 +1,5 @@
 # Bitcoin Price Prediction
-This repository contains a notebook showing how to **predict the prices** of a single **Bitcoin** for 1 hour in the future (**time series forecasting**) using **Deep Learning**.
+This repository contains a notebook showing how to **predict the price/value** of a **Bitcoin** for 1 hour in the future (**time series forecasting**) using **Deep Learning**.
 
 Cells 2-4 of the notebook talk to the Alpha Vantage API to get current Bitcoin data. Here you can **access and explore the most recent data** (you have to provide your own API Key here), e.g. I tried out Linear Regression to see what the resulting function would look like. 
 
